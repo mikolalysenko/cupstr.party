@@ -287,6 +287,8 @@ header .header-content .header-content-inner p {
     width: 100%;
     text-align: center;
     transform: translateY(-50%);
+    height:auto;
+    overflow:hidden;
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category,
